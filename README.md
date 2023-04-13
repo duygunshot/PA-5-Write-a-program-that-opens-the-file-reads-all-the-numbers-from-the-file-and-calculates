@@ -1,0 +1,1 @@
+# PA-5-Write-a-program-that-opens-the-file-reads-all-the-numbers-from-the-file-and-calculates
