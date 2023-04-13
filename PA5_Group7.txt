@@ -1,0 +1,4 @@
+The number of numbers in the file: 200
+The largest and smallest number in the file: (1000, 7)
+The sum of all numbers in the file: 105527
+the average of all the numbers in the file: 527.635
